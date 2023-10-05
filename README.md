@@ -1,6 +1,7 @@
 # EI_assignment
 
 Smart Home System Programming Exercise:
+
 Problem Statement
 Create a simulation for a Smart Home System that allows the user to control different smart devices such as lights, thermostats, and door locks via a central hub. The user should be able to set schedules, automate tasks, and view the status of each device.
 Functional Requirements
